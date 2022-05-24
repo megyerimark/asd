@@ -1,0 +1,20 @@
+Előirt oldalak:
+Névjegy
+Főoldal
+Számítás
+
+
+hurnegyter/
+    ||-templates  
+        |-about.html
+        |-home.thml
+        |-calc.thml
+    |-about.php
+    |-index.php
+    |-calc.php
+
+
+
+    git init
+    git status -u
+    git commit -m "Kezdés"
